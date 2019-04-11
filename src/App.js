@@ -9,7 +9,8 @@ class App extends Component {
 		return (
 			<div className="App">
 				<CatComponent />
-
+				<EinsteinQuoteComponent />
+				<MouseComponent />
 			</div>
 		);
 	}
